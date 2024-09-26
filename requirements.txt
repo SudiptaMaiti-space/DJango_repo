@@ -1,6 +1,5 @@
 Django
 mediapipe
 tensorflow
-json
 numpy
 opencv-python
